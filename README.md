@@ -1,1 +1,1 @@
-# RGB-Pixels-Counting
+# Sample_Pixels-Counting_An_Image
